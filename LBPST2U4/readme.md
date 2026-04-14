@@ -7,7 +7,7 @@ Programa en NASM que utiliza macros, bucles (LOOP) y condicionales (CMP/Jcc).
 - DOSBox
 - NASM
 - ALINK
-
+ 
 ## Compilación
 nasm -f bin programa2.asm -o programa2.com
 
